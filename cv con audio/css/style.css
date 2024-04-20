@@ -1,0 +1,61 @@
+/* todo el archivo */
+
+body,
+html {
+    background-color: lightslategrey;
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    /*borde a los costados del html*/
+}
+
+
+/* cabeza del archvo */
+
+header {
+    padding-top: 10px;
+    /*borde de separacion del elemento de otro*/
+    color: lightskyblue;
+    text-align: center;
+    /*centra todo lo de la cabeza del html*/
+    display: block;
+    font-family: fantasy;
+    background-color: white;
+    padding-bottom: 10px;
+}
+
+#Audio {
+    width: 100%;
+}
+
+
+/* todos los titulos menos el Principal */
+
+h2 {
+    color: lightskyblue;
+    background-color: khaki;
+    text-align: center;
+    font-family: fantasy;
+    /* da estilo a letra*/
+}
+
+section {
+    background-color: whitesmoke;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#mapa {
+  text-align: center ;
+}
+
+
+/* todo lo de abajo del html */
+
+footer {
+    padding-top: 10px;
+    color: khaki;
+    text-align: center;
+    background-color: lightskyblue;
+    font-style: oblique;
+    padding-bottom: 10px;
+}

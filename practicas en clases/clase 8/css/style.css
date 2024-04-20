@@ -1,0 +1,41 @@
+body {
+    text-align: center;
+    text-decoration: line-through;
+}
+
+#arroz {
+    text-align: left;
+    text-decoration: line-through underline blueviolet;
+    letter-spacing: 10px;
+}
+
+.h1 {
+    text-decoration: underline;
+    text-shadow: 20px;
+}
+
+#amor {
+    text-transform: capitalize;
+    text-shadow: 10xp;
+    color: pink;
+    font-weight: ultrabold;
+}
+
+div {
+    box-shadow: 50px;
+    background-color: yellowgreen;
+    height: 20px;
+    width: 100%;
+    writing-mode: vertical-lr;
+    font-size: 45px;
+}
+
+#pata {
+    text-overflow: visible;
+}
+
+#rata {
+    font-family: "Poppins", sans-serif;
+    font-weight: 100;
+    font-style: normal;
+}

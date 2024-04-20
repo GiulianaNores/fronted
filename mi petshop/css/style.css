@@ -1,0 +1,176 @@
+* {
+    margin: 0%;
+    font-family: Roboto;
+}
+
+#top {
+    background-color: #222;
+    color: #F3F3F3;
+    font-size: 0.625rem;
+    border-color: transparent;
+}
+
+#encabezado {
+    background-color: #F0A83E;
+}
+
+#encabezado ul * {
+    list-style-type: none;
+    color: #FFF;
+    font-size: 0.8125rem;
+    text-decoration: none;
+}
+
+#banner {
+    background-size: cover;
+    height: 25.5625rem;
+    background-image: url('../img/bowl-and-pet-daities-on-green-background\ 1.png')
+}
+
+#banner .contenedor-titulo {
+    border-radius: 5px;
+    background-color: #FFF;
+    width: 22.8125rem;
+    height: 1.875rem;
+}
+
+#banner h2 {
+    color: #3C2313;
+    text-align: center;
+    font-size: 1.875rem;
+    font-family: Roboto;
+}
+
+#banner p {
+    color: #3C2313;
+    text-align: center;
+}
+
+#banner button {
+    border-radius: 5px;
+    background-color: #F0A83E;
+    color: #FFF;
+    text-align: center;
+    width: 8.8125rem;
+    height: 3.0625rem;
+    border-color: transparent;
+}
+
+#productos-destacados {
+    text-align: center;
+}
+
+.marron {
+    color: #3C2313;
+    /*nombre de los productos*/
+}
+
+.naranja {
+    color: #F0A83E;
+    /*precios de los productos*/
+}
+
+#formulario p {
+    padding-top: 5px;
+    color: #3C2313 !important;
+    font-size: 1.5625rem !important;
+    font-weight: 700 !important;
+    padding-bottom: 5px;
+}
+
+#formulario {
+    text-align: center;
+    font-size: 0.5625rem;
+    font-weight: 700;
+    position: relative;
+    flex-direction: column;
+    width: 5.93394rem;
+    flex-shrink: 0;
+}
+
+#name {
+    background-color: #3C2313;
+    color: #FFF;
+    border-radius: 7px;
+    width: 350px;
+    height: 25px;
+    border: none;
+}
+
+#email {
+    background-color: #3C2313;
+    color: #FFF;
+    border-radius: 7px;
+    width: 350px;
+    height: 25px;
+    border: none;
+}
+
+#tel {
+    background-color: #3C2313;
+    color: #FFF;
+    border-radius: 7px;
+    width: 350px;
+    height: 25px;
+    border: none;
+}
+
+
+/*boton del formulario reset*/
+
+#formulario [type="reset"] {
+    background-color: #8A8787;
+    border: none;
+    border-radius: 15px;
+}
+
+
+/*boton del formulario submit*/
+
+#formulario [type="submit"] {
+    background-color: #F0A83E;
+    border: none;
+    border-radius: 15px;
+}
+
+#suscripción {
+    background-color: #F0A83E;
+    height: 3.75rem;
+    color: #FFF;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+#suscripción button {
+    background-color: #3C2313;
+    border-radius: 15px;
+    border: none;
+    color: #F3F3F3;
+    font-size: 0.5625rem;
+    font-weight: 700;
+    height: 2.125rem;
+    width: 4.875rem;
+}
+
+#contactos {
+    background-color: #3C2313;
+}
+
+#contactos h3 {
+    color: #FFF;
+    font-size: 1.25rem;
+    font-weight: 700;
+}
+
+#contactos h6 {
+    color: #8A8787;
+    font-size: 0.625rem;
+    font-weight: 700;
+}
+
+#derechos {
+    background-color: #222;
+    color: #FbFaF6;
+    height: 30px;
+    text-align: center;
+}
