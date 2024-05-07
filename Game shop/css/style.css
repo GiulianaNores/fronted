@@ -1,0 +1,212 @@
+
+* {
+    box-sizing: border-box;
+    margin: 0%;
+}
+
+body {
+    background-color: #C4C4C4;
+    width: 1024px;
+}
+
+header {
+    width: 1024px;
+    height: 100px;
+    background-color: #222222;
+}
+
+header .logo {
+    width: 183px ;
+    height: 40px;
+    top: 30px;
+    left: 35px;
+    position: relative;
+    
+}
+
+header div {
+    position: relative;
+    left: 653px;
+    color:#F3F3F3;
+}
+
+.carrito {
+    position: relative;
+    top: -25px;
+    left: 910px;
+    
+}
+
+.bannerprincipal {
+    width: 1024px;
+    height: 521px;
+
+}
+
+.mainbanner {
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+}
+
+
+.descuento {
+    position: relative;
+    top: -300px;
+}
+
+.porciento {
+    font-family: Roboto;
+    color: #D01418;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46.88px;
+}
+
+
+.oferta {
+    font-family: Roboto;
+    color: #F3F3F3;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 46.88px;
+}
+
+.titulo {
+    margin-bottom: 30px;
+}
+
+button {
+    width: 220px;
+    height: 61px;
+    border-radius: 5px;
+    background-color:#D01418;
+    border: none;
+    color: #F3F3F3;
+}
+
+.banner {
+    position: relative;
+}
+
+.medio {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+        align-items: center;
+        height: 1200px;
+    }
+
+    .product {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        align-content: stretch;
+    }
+
+    .bannerssection {
+        display: flex;
+    }
+
+    .banner2 {
+        justify-content: space-around;
+        align-items: center;
+        position: relative;
+        padding-left: 155px;
+
+    }
+
+    h2 {
+        margin: 15px;
+        color: #000000;
+        font-family:Roboto;
+    }
+
+    .card {
+        width: 265px;
+        height: 322px;
+        background-color: #FFFFFF;
+        margin: 20px;
+    }
+
+    .description {
+        position: relative;
+        top: 50px;
+    }
+
+    .verde {
+        color: #619D00;
+    }
+
+    .imagen {
+        position: relative;
+        top: 25px;
+        padding-left: 63px;
+    }
+
+    .alinear {
+        margin-top: 20px;
+        margin-left: 20px;;
+    }
+
+.aparatos {
+    position: relative;
+    color: #F3F3F3;
+    right: 170px;
+    font-family: Roboto;
+    font-weight: 400;
+    font-size: 25px;
+}
+
+.gameshop {
+    background-color: #222222;
+    width: 1024px;
+    height: 216px;
+}
+
+ .logofinal {
+    width: 183px;
+    height: 40px;
+    position: relative;
+    left: 35px;
+    top: 75px;
+}
+
+.socialmedia {
+    position: relative;
+    top: 30px;
+    left: 825px;
+    padding-top: 10px;
+}
+
+.socialmedia p {
+    margin-bottom: 15px;
+    color: #F3F3F3;
+    font-size: 25px;
+    font-weight: 400;
+    font-family: Roboto;
+}
+
+.imagenesredes {
+    justify-content: space-between;
+    padding-left: 25px;
+}
+
+.rede {
+    margin-left: 10px;
+}
+
+
+.copy p {
+    text-align: center;
+    color:#000000;
+    font-size: 10px;
+    font-weight: 400;
+}
+
+.fondo {
+    height: 25px;
+    padding: 8px;
+    width:auto;
+}
+
